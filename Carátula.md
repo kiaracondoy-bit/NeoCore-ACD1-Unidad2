@@ -1,1 +1,35 @@
-k
+<div align="center"> 
+ <img width="320" height="132" alt="image" src="https://github.com/user-attachments/assets/e533f931-15cc-4298-94ed-267c0181a5dd" /> <br>
+
+### ***Universidad Nacional de Loja***
+### *__Carrera de Computación - Primer Ciclo__*<br><br><br>
+### *Matemáticas Discretas*<br><br><br>
+### *💼Portafolio Digital de Aprendizaje*<br><br>
+### **👩‍🏫Docente:**
+###  _Ing. Mario Cueva_<br><br><br>
+### **👩‍🎓Grupo:**
+### NeoCore
+### **Integrantes:**
+### _Darío Chillogallo_
+### _Kiara Condoy_
+### _Javier Guarnizo_
+### _Domenica Narvaez_
+### _José Valéncia_ <br><br><br>
+### Período Académico:
+### *Septiembre 2025 - Febrero 2026*
+<br><br><br> 
+ </div>  
+ 
+---
+### 📚 Material Didáctico para la Clase Invertida <br>
+- [Integrante 1:]() Darío Chillogallo
+- [Integrante 2:]() Kiara Condoy
+- [Integrante 3:]() Javier Guarnizo
+- [Integrante 4:]() Domenica Narvaez
+- [Integrante 5:]() José Valéncia <br>
+### 📚 Ejercicios Resueltos Aplicando las Leyes Aprendidas
+- [Integrante 1:]() Darío Chillogallo
+- [Integrante 2:]() Kiara Condoy
+- [Integrante 3:]() Javier Guarnizo
+- [Integrante 4:]() Domenica Narvaez
+- [Integrante 5:]() José Valéncia <br>
