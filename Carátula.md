@@ -10,11 +10,11 @@
 ### **👩‍🎓Grupo:**
 ### NeoCore<br>
 ### **👩‍💻👨‍💻Integrantes:**
-### _Darío Chillogallo_
-### _Kiara Condoy_
-### _Javier Guarnizo_
-### _Domenica Narvaez_
-### _José Valéncia_ <br><br><br>
+### - _Darío Chillogallo_
+### - _Kiara Condoy_
+### - _Javier Guarnizo_
+### - _Domenica Narvaez_
+### - _José Valéncia_ <br><br><br>
 ### Período Académico:
 ### *Septiembre 2025 - Febrero 2026*
 <br><br><br> 
