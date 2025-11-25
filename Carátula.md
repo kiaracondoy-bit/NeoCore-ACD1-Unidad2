@@ -8,8 +8,8 @@
 ### **👩‍🏫Docente:**
 ###  _Ing. Mario Cueva_<br><br><br>
 ### **👩‍🎓Grupo:**
-### NeoCore
-### **Integrantes:**
+### NeoCore<br>
+### **👩‍💻👨‍💻Integrantes:**
 ### _Darío Chillogallo_
 ### _Kiara Condoy_
 ### _Javier Guarnizo_
