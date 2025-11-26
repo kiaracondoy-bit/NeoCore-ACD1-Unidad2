@@ -27,10 +27,10 @@
 - [Integrante 2:](ACD1/Material%20Didáctico%20para%20la%20Clase%20Invertida/Álgebra_Booleana_Kiara_Condoy.pdf) Kiara Condoy
 - [Integrante 3:](ACD1/Material%20Didáctico%20para%20la%20Clase%20Invertida/Álgebra_Booleana_Javier_Guarnizo.pdf) Javier Guarnizo
 - [Integrante 4:](ACD1/Material%20Didáctico%20para%20la%20Clase%20Invertida/Álgebra_Booleana_Domenica_Narvaez.pdf) Domenica Narvaez
-- [Integrante 5:](ACD1/Material%20Didáctico%20para%20la%20Clase%20Invertida/Álgebra_Booleana_José_Valencia.pdf) José Valéncia <br>
+- [Integrante 5:](ACD1/Material%20Didáctico%20para%20la%20Clase%20Invertida/Álgebra_Booleana_José_Valencia.pdf) José Valencia <br>
 ### 📚 Ejercicios Resueltos Aplicando las Leyes Aprendidas
 - [Integrante 1:](ACD1/Ejercicios%20Resueltos%20Aplicando%20las%20Leyes%20Aprendidas/Ejercicios_Darío_Chillogallo.pdf) Darío Chillogallo
 - [Integrante 2:](ACD1/Ejercicios%20Resueltos%20Aplicando%20las%20Leyes%20Aprendidas/Ejercicios_Kiara_Condoy.pdf) Kiara Condoy
 - [Integrante 3:](ACD1/Ejercicios%20Resueltos%20Aplicando%20las%20Leyes%20Aprendidas/Ejercicios_Javier_Guarnizo.pdf) Javier Guarnizo
 - [Integrante 4:](ACD1/Ejercicios%20Resueltos%20Aplicando%20las%20Leyes%20Aprendidas/Ejercicios_Domenica_Narvaez.pdf) Domenica Narvaez
-- [Integrante 5:](ACD1/Ejercicios%20Resueltos%20Aplicando%20las%20Leyes%20Aprendidas/Ejercicios_José_Valencia.pdf) José Valéncia <br>
+- [Integrante 5:](ACD1/Ejercicios%20Resueltos%20Aplicando%20las%20Leyes%20Aprendidas/Ejercicios_José_Valencia.pdf) José Valencia <br>
